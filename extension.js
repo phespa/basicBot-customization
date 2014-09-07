@@ -84,7 +84,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "Vítej v naší plug.dj roomce! Koukni se do popisku.",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
