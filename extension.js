@@ -93,7 +93,7 @@
         themeLink: null,
         fbLink: "https://www.facebook.com/CaHcesky",
         youtubeLink: null,
-        website: "http://www.cahceskyplug.estranky.cz/",
+        website: "",
         intervalMessages: [],
         messageInterval: 5,
         songstats: true,
