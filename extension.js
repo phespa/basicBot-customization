@@ -96,7 +96,7 @@
         website: "",
         intervalMessages: [],
         messageInterval: 5,
-        songstats: false,
+        songstats: true,
         commandLiteral: "!"
     }));
 
