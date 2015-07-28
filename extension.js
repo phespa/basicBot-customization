@@ -53,8 +53,8 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "NothingBot",
-        language: "english",
+        botName: "xXx_botbot23_xXx",
+        language: "czech",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
         maximumAfk: 120,
         afkRemoval: false,
@@ -66,7 +66,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 8,
+        maximumSongLength: 6,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -83,20 +83,20 @@
         afkpositionCheck: 15,
         afkRankCheck: "ambassador",
         motdEnabled: false,
-        motdInterval: 5,
-        motd: "Vítej v naší plug.dj roomce! Koukni se do popisku.",
+        motdInterval: 3,
+        motd: "Jonášik = židáčik.",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: "http://www.cahceskyplug.estranky.cz/clanky/pravidla.html",
+        rulesLink: "",
         themeLink: null,
         fbLink: "https://www.facebook.com/CaHcesky",
         youtubeLink: null,
         website: "",
         intervalMessages: [],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!"
     }));
 
